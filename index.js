@@ -30,4 +30,4 @@ function sayHiToGrandma(string) {
   }
 }
 
-console.log()
+console.log(sayHiToGrandma(string))
